@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "tt.api.log.path",
+    "type": "java.lang.String",
+    "description": "A description for 'tt.api.log.path'"
+  },
+  {
+    "name": "tt.api.projecao",
+    "type": "java.lang.String",
+    "description": "A description for 'tt.api.projecao'"
+  },
+  {
+    "name": "tt.api.data.invalida",
+    "type": "java.lang.String",
+    "description": "A description for 'tt.api.data.invalida'"
+  },
+  {
+    "name": "tt.api.log.encontrado",
+    "type": "java.lang.String",
+    "description": "A description for 'tt.api.log.encontrado'"
+  },
+  {
+    "name": "tt.api.http.error",
+    "type": "java.lang.String",
+    "description": "A description for 'tt.api.http.error'"
+  }
+]}
