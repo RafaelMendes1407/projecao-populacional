@@ -5,7 +5,7 @@ Aplicação SpringBoot que calcula a projeção da população brasileira para u
 ## Configurações
 
 - Clonar o projeto
-- Editar o arquivo application.properties que esta na pasta src/main/resources, alterar a opção tt.api.log.path, com o caminho e nome do arquivo de logs que será gerado.
+- Editar o arquivo application.properties que está na pasta src/main/resources, alterar a opção tt.api.log.path, com o caminho e nome do arquivo de logs que será gerado.
 - No terminal na raiz do projeto executar o comando para compilar
 ```sh
 mvn clean package install
